@@ -451,7 +451,7 @@
       <dependency>
         <groupId>commons-codec</groupId>
         <artifactId>commons-codec</artifactId>
-        <version>1.4</version>
+        <version>1.13</version>
       </dependency>
       <dependency>
         <groupId>commons-net</groupId>
@@ -703,7 +703,7 @@
       <dependency>
         <groupId>commons-collections</groupId>
         <artifactId>commons-collections</artifactId>
-        <version>3.2.1</version>
+        <version>3.2.2</version>
       </dependency>
       <dependency>
         <groupId>commons-configuration</groupId>
