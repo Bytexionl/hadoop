@@ -65,7 +65,7 @@
 
     <!-- jackson versions -->
     <jackson.version>1.9.13</jackson.version>
-    <jackson2.version>2.2.3</jackson2.version>
+    <jackson2.version>2.13.0</jackson2.version>
 
     <!-- ProtocolBuffer version, used to verify the protoc version and -->
     <!-- define the protobuf JAR version                               -->
@@ -663,7 +663,7 @@
       <dependency>
         <groupId>com.amazonaws</groupId>
         <artifactId>aws-java-sdk-s3</artifactId>
-        <version>1.10.6</version>
+        <version>1.12.176</version>
       </dependency>
       <dependency>
         <groupId>org.apache.mina</groupId>
