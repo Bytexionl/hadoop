@@ -72,7 +72,7 @@
     <protobuf.version>2.5.0</protobuf.version>
     <protoc.path>${env.HADOOP_PROTOC_PATH}</protoc.path>
 
-    <zookeeper.version>3.4.6</zookeeper.version>
+    <zookeeper.version>3.5.10</zookeeper.version>
     <curator.version>2.7.1</curator.version>
     <findbugs.version>3.0.0</findbugs.version>
 
@@ -718,7 +718,7 @@
       <dependency>
         <groupId>org.slf4j</groupId>
         <artifactId>slf4j-log4j12</artifactId>
-        <version>1.7.10</version>
+        <version>1.7.34</version>
       </dependency>
       <dependency>
         <groupId>org.slf4j</groupId>
